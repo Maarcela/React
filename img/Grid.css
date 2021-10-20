@@ -7,7 +7,7 @@
 body{
     font-size: 1.3em;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: azure;
+    background-color: #FFFAFA;
 }
 a {
     color: blueviolet;
@@ -28,7 +28,7 @@ a {
     line-height: 1.2em;
 }
 .main-headerh1 span { 
-    color: crimson;
+    color: 	#FFA500;
 }
 .main-headerp {
     font-size: 2em; 
@@ -47,7 +47,7 @@ img{
     display: grid;
     grid-template-columns: repeat(2 1fr);
     grid-gap: 2rem;
-    background-color: fuchsia;
+    background-color: #F0FFFF;
     margin-bottom: 2rem;
 }
 .cardh3{
@@ -71,4 +71,7 @@ img{
 }
 .bnt:hover{
     opacity: 0.8;
+}
+.N{
+    image-orientation: flip;
 }
